@@ -350,9 +350,9 @@ body:before {
   margin-bottom: 30px;
 }
 .main-blog {
-  background-image: url('media/slope.png');
-  background-size: 100%;
-  background-position: 120px;
+  background-image: url('data/media/slope.png');
+  background-size: 115%;
+  background-position: 100% bottom;
   background-color: #31abbd;
   display: flex;
   flex-direction: column;
@@ -369,9 +369,9 @@ body:before {
 .main-blog + .main-blog {
   margin-left: 20px;
   width: 35%;
-  background-image: url('media/ducklife.png');
+  background-image: url('data/media/ducklife.png');
   background-size: 66%;
-  background-position: 180px;
+  background-position: 115% bottom;
   background-color: #FA5F55;
   display: flex;
   flex-direction: column;
