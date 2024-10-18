@@ -1,3 +1,6 @@
-[submodule "data/cookieclicker"]
-	path = data/cookieclicker
+[submodule "data/games/cookie-clicker"]
+	path = data/games/cookie-clicker
 	url = https://github.com/ozh/cookieclicker
+[submodule "data/games/n-gon"]
+	path = data/games/n-gon
+	url = https://github.com/landgreen/n-gon
